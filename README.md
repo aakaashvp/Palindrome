@@ -1,5 +1,5 @@
 ### EX NO : 02
-### DATE  : 06.04.2022
+### DATE  : 07.09.2022
 # <p align="center">Palindrome</p>
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
